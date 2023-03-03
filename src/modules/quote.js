@@ -14,7 +14,7 @@ reloadButton.addEventListener("click",getQuote);
 async function getQuote() {
         const currentLanguage = getLanguage();
         try { 
-        const url = "./../data/quotes.json";
+        const url = "./data/quotes.json";
         const res = await fetch(url);
         const data = await res.json();
         const randomNumber = Math.floor(Math.random() * data.length);
@@ -40,7 +40,7 @@ async function translateQuote() {
     const currentLanguage = getLanguage();
     const currentQuote = document.querySelector(".quote").innerText;
     try { 
-        const url = "./../data/quotes.json";
+        const url = "./data/quotes.json";
         const res = await fetch(url);
         const data = await res.json();
         switch (currentLanguage) {

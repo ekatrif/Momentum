@@ -1,4 +1,4 @@
-# Web-приложение "Momentum" - итоговый проект в Rolling Scopes School stage 0.
+# Web-приложение "Momentum".
 
 **Ссылка на приложение**: https://ekatrif.github.io/Momentum/dist/index.html
 

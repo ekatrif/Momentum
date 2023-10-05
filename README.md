@@ -1,6 +1,6 @@
 # Web-приложение "Momentum".
 
-**Ссылка на приложение**: https://ekatrif.github.io/Momentum/dist/index.html
+**Ссылка на приложение**: https://ekatrif.github.io/Momentum/dist/
 
 **Ссылка на задание**: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md
 
